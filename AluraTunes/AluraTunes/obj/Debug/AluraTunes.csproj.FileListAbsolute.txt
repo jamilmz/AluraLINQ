@@ -1,0 +1,7 @@
+C:\Users\jamil\source\repos\AluraTunes\AluraTunes\bin\Debug\AluraTunes.exe.config
+C:\Users\jamil\source\repos\AluraTunes\AluraTunes\bin\Debug\AluraTunes.exe
+C:\Users\jamil\source\repos\AluraTunes\AluraTunes\bin\Debug\AluraTunes.pdb
+C:\Users\jamil\source\repos\AluraTunes\AluraTunes\obj\Debug\AluraTunes.csproj.CoreCompileInputs.cache
+C:\Users\jamil\source\repos\AluraTunes\AluraTunes\obj\Debug\AluraTunes.exe
+C:\Users\jamil\source\repos\AluraTunes\AluraTunes\obj\Debug\AluraTunes.pdb
+C:\Users\jamil\source\repos\AluraTunes\AluraTunes\obj\Debug\AluraTunes.csprojResolveAssemblyReference.cache
